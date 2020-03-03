@@ -5,7 +5,7 @@ Some useful python script which allows you to control your parrot bebop 2 with c
 First, you will need to install the <a href="#Dependencies">dependencies</a>. Secondly, for each script, you have a notice inside file and a sum in this readme.
 You have to connect your computer to your drone's wifi before begin to use the code in order to make your bebop fly ! 
 Content : 
-<a href="#bebop_cmd.py">Bebop_cmd.py</a>
+<a href="#Bebop_cmd.py">Bebop_cmd.py</a>
 <br>
 # Dependencies
 
