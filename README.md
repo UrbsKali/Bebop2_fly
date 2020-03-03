@@ -7,11 +7,11 @@ Content :
 <a href="#bebop.py">Bebop.py</a>
 <br>
 # Dependencies
-<hr>
+
 You <strong>must</strong> have install <strong>pyparrot</strong>, To do that, you can install manually or lauch the setup.py script or setup.sh
 <br>
 # License 
-<hr>
+
 This work is under the GNU GPL v3.0 license, so please give me the credit if you want to fork or uprgade ! 
 <br>
 Thank you for reading !
