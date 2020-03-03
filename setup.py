@@ -1,0 +1,10 @@
+import os 
+os.system("pip3 install pyparrot")
+os.system("pip3 install opencv-python")
+os.system("pip install opencv-python")
+os.system("cls")
+os.system("echo  -----------------------------------------------------------------------")
+os.system("echo /                           Sucessful                                   \ ")
+os.system("echo \                            Enjoy !                                    /")
+os.system("echo  -----------------------------------------------------------------------")
+os.system("pause")
